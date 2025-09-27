@@ -2,6 +2,11 @@
 
 El clásico juego de cartas donde debes organizar todas las cartas en las fundaciones.
 
+<img width="507" height="507" alt="image" src="https://github.com/user-attachments/assets/9fc821bf-bbe3-466e-aa9a-c02bfd3c11cc" />
+<img width="522" height="462" alt="image" src="https://github.com/user-attachments/assets/ed83bd28-af25-44c6-a7e4-1c1ab4dd7b27" />
+
+
+
 ## 📋 Descripción
 
 El Solitario Klondike es el juego de cartas más popular del mundo. El objetivo es mover todas las 52 cartas a las 4 fundaciones en orden ascendente por palo.
