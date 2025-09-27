@@ -68,6 +68,7 @@ nerdearla/
 ├── solitario.html   # Solitario web
 └── README.md        # Este archivo
 ```
+<img width="1227" height="674" alt="image" src="https://github.com/user-attachments/assets/43f947da-9c98-4464-abc7-92ddecbdd8bb" />
 
 ---
 
